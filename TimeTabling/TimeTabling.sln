@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Web Developer Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeTabling.Web", "TimeTabling.Web\TimeTabling.Web.csproj", "{8DAF5B2C-13C3-464D-B20B-D4FEB7395590}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeTabling.Core", "TimeTabling.Core\TimeTabling.Core.csproj", "{67A1E6A7-566B-4222-AE0E-041FF6843E4F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeTabling.Application", "TimeTabling.Aplication\TimeTabling.Application.csproj", "{FF45F48B-947F-46AA-A8F3-31C99C3FFD57}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeTabling.Dal", "TimeTabling.DAL\TimeTabling.Dal.csproj", "{6B7047D0-63F5-4711-BDDB-4986BC16A360}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8DAF5B2C-13C3-464D-B20B-D4FEB7395590}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DAF5B2C-13C3-464D-B20B-D4FEB7395590}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DAF5B2C-13C3-464D-B20B-D4FEB7395590}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DAF5B2C-13C3-464D-B20B-D4FEB7395590}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67A1E6A7-566B-4222-AE0E-041FF6843E4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67A1E6A7-566B-4222-AE0E-041FF6843E4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67A1E6A7-566B-4222-AE0E-041FF6843E4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67A1E6A7-566B-4222-AE0E-041FF6843E4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF45F48B-947F-46AA-A8F3-31C99C3FFD57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF45F48B-947F-46AA-A8F3-31C99C3FFD57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF45F48B-947F-46AA-A8F3-31C99C3FFD57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF45F48B-947F-46AA-A8F3-31C99C3FFD57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B7047D0-63F5-4711-BDDB-4986BC16A360}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B7047D0-63F5-4711-BDDB-4986BC16A360}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B7047D0-63F5-4711-BDDB-4986BC16A360}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B7047D0-63F5-4711-BDDB-4986BC16A360}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
