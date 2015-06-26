@@ -1,0 +1,9 @@
+C:\Users\Ignacio\Documents\GitHub\TimeTabling\TimeTabling\TimeTabling.Aplication\bin\Debug\TimeTabling.Aplication.dll
+C:\Users\Ignacio\Documents\GitHub\TimeTabling\TimeTabling\TimeTabling.Aplication\bin\Debug\TimeTabling.Aplication.pdb
+C:\Users\Ignacio\Documents\GitHub\TimeTabling\TimeTabling\TimeTabling.Aplication\bin\Debug\TimeTabling.Core.dll
+C:\Users\Ignacio\Documents\GitHub\TimeTabling\TimeTabling\TimeTabling.Aplication\bin\Debug\TimeTabling.DAL.dll
+C:\Users\Ignacio\Documents\GitHub\TimeTabling\TimeTabling\TimeTabling.Aplication\bin\Debug\TimeTabling.Core.pdb
+C:\Users\Ignacio\Documents\GitHub\TimeTabling\TimeTabling\TimeTabling.Aplication\bin\Debug\TimeTabling.DAL.pdb
+C:\Users\Ignacio\Documents\GitHub\TimeTabling\TimeTabling\TimeTabling.Aplication\obj\Debug\TimeTabling.Application.csprojResolveAssemblyReference.cache
+C:\Users\Ignacio\Documents\GitHub\TimeTabling\TimeTabling\TimeTabling.Aplication\obj\Debug\TimeTabling.Aplication.dll
+C:\Users\Ignacio\Documents\GitHub\TimeTabling\TimeTabling\TimeTabling.Aplication\obj\Debug\TimeTabling.Aplication.pdb

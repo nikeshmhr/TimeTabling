@@ -1,0 +1,4 @@
+C:\Users\Ignacio\Documents\GitHub\TimeTabling\TimeTabling\TimeTabling.Core\bin\Debug\TimeTabling.Core.dll
+C:\Users\Ignacio\Documents\GitHub\TimeTabling\TimeTabling\TimeTabling.Core\bin\Debug\TimeTabling.Core.pdb
+C:\Users\Ignacio\Documents\GitHub\TimeTabling\TimeTabling\TimeTabling.Core\obj\Debug\TimeTabling.Core.dll
+C:\Users\Ignacio\Documents\GitHub\TimeTabling\TimeTabling\TimeTabling.Core\obj\Debug\TimeTabling.Core.pdb
